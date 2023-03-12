@@ -1,5 +1,5 @@
 # NodeMcu ESP8266 + DHT22
-Script for NodeMcu ESP8266 for sending data from DHT22 sensor to a remote API endpoint using the httpclient.
+Script for sending data from the a NodeMcu ESP8266 with the DHT22 sensor to a remote API endpoint using the httpclient library.
 
 This script can be paired with the following API server and status page: https://github.com/skykery/temp-reporter
 
